@@ -1,0 +1,3653 @@
+---------------------------------------------------------------
+
+[2019-12-26T12:45:36+08:00] 127.0.0.1 GET www.seho.xyz/
+[运行时间：0.068358s] [吞吐率：14.63req/s] [内存消耗：1,711.69kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:45:54+08:00] 127.0.0.1 GET www.seho.xyz/
+[运行时间：0.060639s] [吞吐率：16.49req/s] [内存消耗：1,711.70kb] [文件加载：59]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:46:50+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index
+[运行时间：0.081708s] [吞吐率：12.24req/s] [内存消耗：1,772.15kb] [文件加载：66]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:46:50+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.064236s] [吞吐率：15.57req/s] [内存消耗：1,997.92kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:47:13+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.055729s] [吞吐率：17.94req/s] [内存消耗：1,856.82kb] [文件加载：67]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:47:34+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.057763s] [吞吐率：17.31req/s] [内存消耗：1,856.82kb] [文件加载：67]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:22+08:00] 127.0.0.1 POST www.seho.xyz/admin/login/index.html
+[运行时间：0.513772s] [吞吐率：1.95req/s] [内存消耗：2,729.06kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'content-length' => '25',
+  'host' => 'www.seho.xyz',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index#',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'admin',
+  'password' => '12345',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001599s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.019738s ]
+[ sql ] [ SQL ] SELECT * FROM `admin` WHERE  `name` = 'admin' LIMIT 1 [ RunTime:0.000823s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:23+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.108693s] [吞吐率：9.20req/s] [内存消耗：2,025.82kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:24+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.148190s] [吞吐率：6.75req/s] [内存消耗：3,021.60kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001328s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.024182s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000770s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.023136s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000675s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:26+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.094544s] [吞吐率：10.58req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001277s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014428s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000503s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.014370s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000423s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:29+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.089408s] [吞吐率：11.18req/s] [内存消耗：2,969.59kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001230s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.018055s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000707s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:30+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/maintain.html
+[运行时间：0.171884s] [吞吐率：5.82req/s] [内存消耗：3,165.18kb] [文件加载：78]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\maintain.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001118s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014731s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000462s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000456s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.108907s] [吞吐率：9.18req/s] [内存消耗：2,934.45kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001255s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014813s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.000655s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000373s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000404s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000970s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000464s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.017769s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577335772  AND `create_time` > 1577249372 [ RunTime:0.000588s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577335772  AND `create_time` > 1576730972 [ RunTime:0.000444s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577335772  AND `create_time` > 1574657372 [ RunTime:0.000393s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.150257s] [吞吐率：6.66req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.071578s] [吞吐率：13.97req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.093182s] [吞吐率：10.73req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.076417s] [吞吐率：13.09req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.072692s] [吞吐率：13.76req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.089206s] [吞吐率：11.21req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.057495s] [吞吐率：17.39req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.059295s] [吞吐率：16.86req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:36+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.090734s] [吞吐率：11.02req/s] [内存消耗：3,165.23kb] [文件加载：78]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001283s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.016466s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000474s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000468s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:37+08:00] 127.0.0.1 GET www.seho.xyz/admin/storey/index.html
+[运行时间：0.100702s] [吞吐率：9.93req/s] [内存消耗：3,139.00kb] [文件加载：79]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\storey\index.html [ array (
+  0 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001410s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.016034s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `storey` [ RunTime:0.000544s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC LIMIT 0,10 [ RunTime:0.000395s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:39+08:00] 127.0.0.1 GET www.seho.xyz/admin/jointime/index.html
+[运行时间：0.109645s] [吞吐率：9.12req/s] [内存消耗：3,137.94kb] [文件加载：79]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\jointime\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001496s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jointime` [ RunTime:0.016242s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jointime` [ RunTime:0.000492s ]
+[ sql ] [ SQL ] SELECT * FROM `jointime` ORDER BY `num` ASC LIMIT 0,5 [ RunTime:0.000411s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:41+08:00] 127.0.0.1 GET www.seho.xyz/admin/member_card/index.html
+[运行时间：0.058035s] [吞吐率：17.23req/s] [内存消耗：1,992.06kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\member_card\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:45+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.102930s] [吞吐率：9.72req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001233s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.016091s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000497s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.014849s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000438s ]
+---------------------------------------------------------------
+
+[2019-12-26T12:49:55+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/logout.html
+[运行时间：0.075588s] [吞吐率：13.23req/s] [内存消耗：1,772.13kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T12:49:55+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.047748s] [吞吐率：20.94req/s] [内存消耗：1,857.27kb] [文件加载：67]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:52:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.069858s] [吞吐率：14.31req/s] [内存消耗：1,999.12kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:53:12+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.074957s] [吞吐率：13.34req/s] [内存消耗：1,999.12kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:53:35+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.069885s] [吞吐率：14.31req/s] [内存消耗：1,998.62kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:53:43+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.071119s] [吞吐率：14.06req/s] [内存消耗：1,856.82kb] [文件加载：67]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:54:20+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.064288s] [吞吐率：15.56req/s] [内存消耗：1,998.17kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:54:49+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.057182s] [吞吐率：17.49req/s] [内存消耗：1,856.82kb] [文件加载：67]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:55:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.057501s] [吞吐率：17.39req/s] [内存消耗：1,998.67kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:57:06+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.071739s] [吞吐率：13.94req/s] [内存消耗：1,998.17kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:57:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.080317s] [吞吐率：12.45req/s] [内存消耗：1,998.17kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:58:15+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.074683s] [吞吐率：13.39req/s] [内存消耗：1,998.67kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T12:58:46+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.069470s] [吞吐率：14.39req/s] [内存消耗：1,998.67kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:00:07+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.075258s] [吞吐率：13.29req/s] [内存消耗：1,998.67kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:00:44+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.070942s] [吞吐率：14.10req/s] [内存消耗：1,998.67kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:00+08:00] 127.0.0.1 GET www.seho.xyz/admin/login/index
+[运行时间：0.076877s] [吞吐率：13.01req/s] [内存消耗：1,998.17kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\login\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:22+08:00] 127.0.0.1 POST www.seho.xyz/admin/login/index.html
+[运行时间：0.086335s] [吞吐率：11.58req/s] [内存消耗：2,729.06kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'cache-control' => 'no-cache',
+  'connection' => 'Keep-Alive',
+  'content-length' => '25',
+  'host' => 'www.seho.xyz',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-encoding' => 'gzip, deflate',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+)
+[ info ] [ PARAM ] array (
+  'name' => 'admin',
+  'password' => '12345',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003734s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `admin` [ RunTime:0.016098s ]
+[ sql ] [ SQL ] SELECT * FROM `admin` WHERE  `name` = 'admin' LIMIT 1 [ RunTime:0.000667s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:23+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.063857s] [吞吐率：15.66req/s] [内存消耗：1,876.97kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:24+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.194572s] [吞吐率：5.14req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002296s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.023280s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000537s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.025158s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000582s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:48+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.062806s] [吞吐率：15.92req/s] [内存消耗：2,026.32kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:01:48+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.137350s] [吞吐率：7.28req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001465s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.022194s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000846s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.020569s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000597s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:06+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.062847s] [吞吐率：15.91req/s] [内存消耗：2,026.32kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:07+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.144955s] [吞吐率：6.90req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011103s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.020019s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000487s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.020842s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000466s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:20+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.087903s] [吞吐率：11.38req/s] [内存消耗：3,016.67kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001387s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015887s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000719s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000699s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:21+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/addition.html
+[运行时间：0.089744s] [吞吐率：11.14req/s] [内存消耗：2,980.59kb] [文件加载：75]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/house/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\addition.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002403s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.019345s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000468s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:28+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.118100s] [吞吐率：8.47req/s] [内存消耗：3,016.67kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/house/addition.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001534s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.038217s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000590s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000623s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:30+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.127661s] [吞吐率：7.83req/s] [内存消耗：3,016.67kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010667s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.049003s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000428s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000319s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:31+08:00] 127.0.0.1 GET www.seho.xyz/admin/storey/index.html
+[运行时间：0.088616s] [吞吐率：11.28req/s] [内存消耗：2,997.01kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\storey\index.html [ array (
+  0 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001147s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.014997s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `storey` [ RunTime:0.000453s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC LIMIT 0,10 [ RunTime:0.000316s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/jointime/index.html
+[运行时间：0.085977s] [吞吐率：11.63req/s] [内存消耗：2,998.05kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\jointime\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001156s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jointime` [ RunTime:0.014519s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jointime` [ RunTime:0.000460s ]
+[ sql ] [ SQL ] SELECT * FROM `jointime` ORDER BY `num` ASC LIMIT 0,5 [ RunTime:0.000340s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:34+08:00] 127.0.0.1 GET www.seho.xyz/admin/member_card/index.html
+[运行时间：0.054946s] [吞吐率：18.20req/s] [内存消耗：1,861.24kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\member_card\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:40+08:00] 127.0.0.1 GET www.seho.xyz/admin/jointime/index.html
+[运行时间：0.103308s] [吞吐率：9.68req/s] [内存消耗：2,998.05kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\jointime\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.010979s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jointime` [ RunTime:0.020710s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jointime` [ RunTime:0.000470s ]
+[ sql ] [ SQL ] SELECT * FROM `jointime` ORDER BY `num` ASC LIMIT 0,5 [ RunTime:0.000300s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:53+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.064623s] [吞吐率：15.47req/s] [内存消耗：2,026.32kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/login/index',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:53+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.224630s] [吞吐率：4.45req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001324s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.027880s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000680s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.083888s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000484s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:55+08:00] 127.0.0.1 GET www.seho.xyz/admin/jointime/index.html
+[运行时间：0.081981s] [吞吐率：12.20req/s] [内存消耗：2,998.05kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\jointime\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.000993s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jointime` [ RunTime:0.017445s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jointime` [ RunTime:0.000488s ]
+[ sql ] [ SQL ] SELECT * FROM `jointime` ORDER BY `num` ASC LIMIT 0,5 [ RunTime:0.000333s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:56+08:00] 127.0.0.1 GET www.seho.xyz/admin/storey/index.html
+[运行时间：0.103460s] [吞吐率：9.67req/s] [内存消耗：2,997.01kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\storey\index.html [ array (
+  0 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011140s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.016829s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `storey` [ RunTime:0.000479s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC LIMIT 0,10 [ RunTime:0.000313s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:57+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.086852s] [吞吐率：11.51req/s] [内存消耗：3,016.67kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001125s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.016874s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000490s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000319s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.095508s] [吞吐率：10.47req/s] [内存消耗：2,792.44kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001182s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015224s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.000527s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000291s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000364s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000347s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.014493s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336578  AND `create_time` > 1577250178 [ RunTime:0.000756s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336578  AND `create_time` > 1576731778 [ RunTime:0.000381s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336578  AND `create_time` > 1574658178 [ RunTime:0.000366s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.086849s] [吞吐率：11.51req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.108141s] [吞吐率：9.25req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.137437s] [吞吐率：7.28req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.193031s] [吞吐率：5.18req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.108943s] [吞吐率：9.18req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.120619s] [吞吐率：8.29req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.092343s] [吞吐率：10.83req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:02:58+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.078300s] [吞吐率：12.77req/s] [内存消耗：1,770.41kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/png, image/svg+xml, image/jxr, image/*;q=0.8, */*;q=0.5',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:03:00+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/maintain.html
+[运行时间：0.118630s] [吞吐率：8.43req/s] [内存消耗：3,016.93kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\maintain.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002841s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.032069s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000445s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000306s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:03+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.081240s] [吞吐率：12.31req/s] [内存消耗：2,834.73kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001127s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015976s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000555s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:08+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.083718s] [吞吐率：11.94req/s] [内存消耗：2,834.73kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001217s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014565s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000543s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:09+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.079267s] [吞吐率：12.62req/s] [内存消耗：2,834.73kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001201s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015632s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000506s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:10+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.108833s] [吞吐率：9.19req/s] [内存消耗：2,881.51kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'connection' => 'Keep-Alive',
+  'host' => 'www.seho.xyz',
+  'accept-encoding' => 'gzip, deflate',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64; Trident/7.0; rv:11.0) like Gecko',
+  'accept-language' => 'zh-CN',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html, application/xhtml+xml, image/jxr, */*',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002209s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017698s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000594s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.014717s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000452s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:23+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.062884s] [吞吐率：15.90req/s] [内存消耗：1,877.10kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:24+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.149438s] [吞吐率：6.69req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001712s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.020985s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000699s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.029384s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000731s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:27+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/show/id/44.html
+[运行时间：0.089015s] [吞吐率：11.23req/s] [内存消耗：3,013.65kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '44',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\show.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001200s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014959s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.001011s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:34+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.094832s] [吞吐率：10.54req/s] [内存消耗：2,835.31kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001073s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017159s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000407s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:37+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.080798s] [吞吐率：12.38req/s] [内存消耗：2,835.31kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001483s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014538s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000454s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:39+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.107201s] [吞吐率：9.33req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001093s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014088s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.001038s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.021084s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000423s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:42+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/show/id/41.html
+[运行时间：0.082400s] [吞吐率：12.14req/s] [内存消耗：2,865.17kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '41',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\show.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001834s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014568s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `id` = 41 LIMIT 1 [ RunTime:0.001238s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:46+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.116964s] [吞吐率：8.55req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001268s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.027233s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000652s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.024323s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000396s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:49+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/show/id/44.html
+[运行时间：0.081313s] [吞吐率：12.30req/s] [内存消耗：2,865.00kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '44',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\show.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001224s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015168s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `id` = 44 LIMIT 1 [ RunTime:0.000550s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:51+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.099064s] [吞吐率：10.09req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001204s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.016342s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000458s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.015039s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000461s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:03:55+08:00] 127.0.0.1 GET www.seho.xyz/static/resource/js/iframeResizer.map
+[运行时间：0.049375s] [吞吐率：20.25req/s] [内存消耗：1,491.80kb] [文件加载：56]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+---------------------------------------------------------------
+
+[2019-12-26T13:04:06+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.095506s] [吞吐率：10.47req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001196s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014517s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000440s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.013058s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000642s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.106051s] [吞吐率：9.43req/s] [内存消耗：2,793.11kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003393s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015783s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.001169s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000651s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000344s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000301s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000295s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.016346s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336672  AND `create_time` > 1577250272 [ RunTime:0.000740s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336672  AND `create_time` > 1576731872 [ RunTime:0.000415s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336672  AND `create_time` > 1574658272 [ RunTime:0.000364s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.085473s] [吞吐率：11.70req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.109108s] [吞吐率：9.17req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.147549s] [吞吐率：6.78req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.169545s] [吞吐率：5.90req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.083554s] [吞吐率：11.97req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.222614s] [吞吐率：4.49req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.094903s] [吞吐率：10.54req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.118695s] [吞吐率：8.42req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:33+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/maintain.html
+[运行时间：0.112999s] [吞吐率：8.85req/s] [内存消耗：3,017.49kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\maintain.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001217s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.020121s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000647s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000713s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:36+08:00] 127.0.0.1 GET www.seho.xyz/admin/subscribe/index.html
+[运行时间：0.092825s] [吞吐率：10.77req/s] [内存消耗：2,835.30kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\subscribe\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.002666s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017369s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `status` = 4 [ RunTime:0.000512s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:37+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.118334s] [吞吐率：8.45req/s] [内存消耗：2,793.13kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011549s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017899s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.000571s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000305s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000476s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000421s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000319s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.015257s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336677  AND `create_time` > 1577250277 [ RunTime:0.000581s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336677  AND `create_time` > 1576731877 [ RunTime:0.000398s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336677  AND `create_time` > 1574658277 [ RunTime:0.000361s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.101334s] [吞吐率：9.87req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.112529s] [吞吐率：8.89req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.140144s] [吞吐率：7.14req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.169574s] [吞吐率：5.90req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.204785s] [吞吐率：4.88req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.217170s] [吞吐率：4.60req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.122762s] [吞吐率：8.15req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.167451s] [吞吐率：5.97req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.158215s] [吞吐率：6.32req/s] [内存消耗：2,793.13kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001831s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.022560s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.000674s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000683s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000517s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000706s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000341s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.025057s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336678  AND `create_time` > 1577250278 [ RunTime:0.000914s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336678  AND `create_time` > 1576731878 [ RunTime:0.001204s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577336678  AND `create_time` > 1574658278 [ RunTime:0.000970s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.131268s] [吞吐率：7.62req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.109421s] [吞吐率：9.14req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.172852s] [吞吐率：5.79req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.199871s] [吞吐率：5.00req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.176765s] [吞吐率：5.66req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.109013s] [吞吐率：9.17req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.084783s] [吞吐率：11.79req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:04:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.245245s] [吞吐率：4.08req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:07:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.065777s] [吞吐率：15.20req/s] [内存消耗：1,877.18kb] [文件加载：69]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:07:32+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.146533s] [吞吐率：6.82req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001399s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.023836s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000678s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.021486s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000494s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:08:17+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.102559s] [吞吐率：9.75req/s] [内存消耗：2,026.53kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:08:17+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.164747s] [吞吐率：6.07req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001913s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.021550s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000528s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.027518s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000698s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.067058s] [吞吐率：14.91req/s] [内存消耗：2,026.53kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:38+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.146409s] [吞吐率：6.83req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001700s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.021672s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000667s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.022200s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000389s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:46+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/show/id/40.html
+[运行时间：0.089581s] [吞吐率：11.16req/s] [内存消耗：2,865.17kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '40',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\show.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001291s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015581s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `id` = 40 LIMIT 1 [ RunTime:0.000805s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:49+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/state.html?id=40
+[运行时间：0.086373s] [吞吐率：11.58req/s] [内存消耗：2,974.01kb] [文件加载：75]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/show/id/40.html',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'accept' => '*/*',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+  'id' => '40',
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\state.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001366s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014848s ]
+[ sql ] [ SQL ] SELECT * FROM `house` WHERE  `id` = 40 LIMIT 1 [ RunTime:0.000723s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:53+08:00] 127.0.0.1 POST www.seho.xyz/admin/console/state.html
+[运行时间：0.115291s] [吞吐率：8.67req/s] [内存消耗：2,729.77kb] [文件加载：70]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/show/id/40.html',
+  'content-type' => 'application/x-www-form-urlencoded; charset=UTF-8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'x-requested-with' => 'XMLHttpRequest',
+  'origin' => 'http://www.seho.xyz',
+  'accept' => '*/*',
+  'content-length' => '14',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+)
+[ info ] [ PARAM ] array (
+  'id' => '40',
+  'status' => '0',
+)
+[ info ] [ DB ] INIT mysql
+[ sql ] [ DB ] CONNECT:[ UseTime:0.011047s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015041s ]
+[ sql ] [ SQL ] UPDATE `house`  SET `id` = 40 , `status` = '0'  WHERE  `id` = 40 [ RunTime:0.000973s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:54+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.096085s] [吞吐率：10.41req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/console/show/id/40.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001319s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.014828s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000741s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.015114s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.000571s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:09:56+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/maintain.html
+[运行时间：0.086614s] [吞吐率：11.55req/s] [内存消耗：3,017.49kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\maintain.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001289s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017042s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000448s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000419s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:01+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/maintain.html
+[运行时间：0.090232s] [吞吐率：11.08req/s] [内存消耗：3,017.49kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\maintain.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001823s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.017843s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000448s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000365s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/finance/index.html
+[运行时间：0.099423s] [吞吐率：10.06req/s] [内存消耗：2,793.11kb] [文件加载：72]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\finance\index.html [ array (
+  0 => 'res',
+  1 => 'checkin',
+  2 => 'free',
+  3 => 'clean',
+  4 => 'repair',
+  5 => 'today',
+  6 => 'week',
+  7 => 'month',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001280s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015615s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 4 [ RunTime:0.000663s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 0 [ RunTime:0.000550s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 1 [ RunTime:0.000391s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 2 [ RunTime:0.000360s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` WHERE  `status` = 3 [ RunTime:0.000380s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `finance` [ RunTime:0.016484s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577337002  AND `create_time` > 1577250602 [ RunTime:0.000895s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577337002  AND `create_time` > 1576732202 [ RunTime:0.000574s ]
+[ sql ] [ SQL ] SELECT * FROM `finance` WHERE  `create_time` < 1577337002  AND `create_time` > 1574658602 [ RunTime:0.000681s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%9B%B7%E8%BE%BE%E5%9B%BE.png
+[运行时间：0.166833s] [吞吐率：5.99req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/K%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.168603s] [吞吐率：5.93req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%9F%B1%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.225845s] [吞吐率：4.43req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E9%A5%BC%E7%8A%B6%E5%9B%BE.png
+[运行时间：0.225807s] [吞吐率：4.43req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%95%A3%E7%82%B9%E5%9B%BE.png
+[运行时间：0.229973s] [吞吐率：4.35req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%92%8C%E5%BC%A6%E5%9B%BE.png
+[运行时间：0.083949s] [吞吐率：11.91req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E6%8A%98%E7%BA%BF%E5%9B%BE.png
+[运行时间：0.289744s] [吞吐率：3.45req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:02+08:00] 127.0.0.1 GET www.seho.xyz/admin/asset/ico/%E5%8A%9B%E5%AF%BC%E5%90%91%E5%9B%BE.png
+[运行时间：0.102592s] [吞吐率：9.75req/s] [内存消耗：1,770.45kb] [文件加载：65]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/finance/index.html',
+  'accept' => 'image/webp,image/apng,image/*,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+---------------------------------------------------------------
+
+[2019-12-26T13:10:04+08:00] 127.0.0.1 GET www.seho.xyz/admin/house/index.html
+[运行时间：0.094365s] [吞吐率：10.60req/s] [内存消耗：3,017.23kb] [文件加载：76]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\house\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001366s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.015989s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `house` [ RunTime:0.000400s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC LIMIT 0,8 [ RunTime:0.000343s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:05+08:00] 127.0.0.1 GET www.seho.xyz/admin/storey/index.html
+[运行时间：0.087815s] [吞吐率：11.39req/s] [内存消耗：3,001.57kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\storey\index.html [ array (
+  0 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001319s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.015824s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `storey` [ RunTime:0.000475s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC LIMIT 0,10 [ RunTime:0.000311s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:06+08:00] 127.0.0.1 GET www.seho.xyz/admin/jointime/index.html
+[运行时间：0.117637s] [吞吐率：8.50req/s] [内存消耗：2,998.61kb] [文件加载：77]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\jointime\index.html [ array (
+  0 => 'list',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.001146s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `jointime` [ RunTime:0.017676s ]
+[ sql ] [ SQL ] SELECT COUNT(*) AS tp_count FROM `jointime` [ RunTime:0.000469s ]
+[ sql ] [ SQL ] SELECT * FROM `jointime` ORDER BY `num` ASC LIMIT 0,5 [ RunTime:0.000304s ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:27+08:00] 127.0.0.1 GET www.seho.xyz/admin/index/index.html
+[运行时间：0.084900s] [吞吐率：11.78req/s] [内存消耗：2,026.53kb] [文件加载：71]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'cache-control' => 'max-age=0',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\index\index.html [ array (
+) ]
+---------------------------------------------------------------
+
+[2019-12-26T13:10:27+08:00] 127.0.0.1 GET www.seho.xyz/admin/console/index.html
+[运行时间：0.148469s] [吞吐率：6.74req/s] [内存消耗：2,882.07kb] [文件加载：74]
+[ info ] [ LANG ] D:\phpstudy_pro\WWW\seho\Hotel\thinkphp\lang\zh-cn.php
+[ info ] [ ROUTE ] array (
+)
+[ info ] [ HEADER ] array (
+  'cookie' => 'thinkphp_show_page_trace=0|0; PHPSESSID=gb0ppbu8s5eb1peds2c1npqnc3',
+  'accept-language' => 'zh-CN,zh;q=0.9',
+  'accept-encoding' => 'gzip, deflate',
+  'referer' => 'http://www.seho.xyz/admin/index/index.html',
+  'accept' => 'text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8',
+  'user-agent' => 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Safari/537.36',
+  'upgrade-insecure-requests' => '1',
+  'connection' => 'keep-alive',
+  'host' => 'www.seho.xyz',
+  'content-length' => '',
+  'content-type' => '',
+)
+[ info ] [ PARAM ] array (
+)
+[ info ] [ DB ] INIT mysql
+[ info ] [ VIEW ] D:\phpstudy_pro\WWW\seho\Hotel\application\admin\view\console\index.html [ array (
+  0 => 'list',
+  1 => 'storey',
+) ]
+[ sql ] [ DB ] CONNECT:[ UseTime:0.003579s ] mysql:host=127.0.0.1;dbname=wms;charset=utf8
+[ sql ] [ SQL ] SHOW COLUMNS FROM `house` [ RunTime:0.020809s ]
+[ sql ] [ SQL ] SELECT * FROM `house` ORDER BY `num` ASC [ RunTime:0.000578s ]
+[ sql ] [ SQL ] SHOW COLUMNS FROM `storey` [ RunTime:0.022576s ]
+[ sql ] [ SQL ] SELECT * FROM `storey` ORDER BY `num` ASC [ RunTime:0.001227s ]

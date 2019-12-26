@@ -1,0 +1,245 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/layui/css/layui.css">
+    <link rel="stylesheet" href="/static/toastr/toastr.min.css">
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.js"></script>
+    <script src="/static/toastr/toastr.min.js"></script>
+    <script src="/static/layer/layer.js"></script>
+</head>
+<style>
+    .title_menu{
+        height: 100px;
+        text-align: center;
+        font-size: 36px;
+        font-weight: bold;
+        color: #FFFFFF;
+        padding: 25px;
+        cursor: pointer;
+    }
+    .title_menu:hover{
+        border: 2px solid #F3F3F3;
+    }
+
+</style>
+<body>
+<div class="layui-container">
+    <div class="layui-row">
+        <div class="layui-col-md12">
+
+            {if $list['status'] == 1 }
+                <div class="layui-col-md4 title_menu" style="background-color: #1E9FFF;" onclick="check_in({$list.id})">
+                    <span>入住</span>
+                </div>
+            {elseif $list['status'] == 2 /}
+                <div class="layui-col-md4 title_menu" style="background-color: #1E9FFF;" onclick="Clean()">
+                    <span>待打扫</span>
+                </div>
+            {elseif $list['status'] == 3 /}
+                <div class="layui-col-md4 title_menu" style="background-color: #1E9FFF;" onclick="Repair()">
+                    <span>维修中</span>
+                </div>
+            {elseif $list['status'] == 4 /}
+                <div class="layui-col-md4 title_menu" style="background-color: #1E9FFF;" onclick="Book()">
+                    <span>预订中</span>
+                </div>
+            {elseif $list['status'] == 0 /}
+                <div class="layui-col-md4 title_menu" style="background-color: #1E9FFF;" onclick="exit({$list.id})">
+                    <span>退房</span>
+                </div>
+            {/if}
+
+            <div class="layui-col-md4 title_menu" style="background-color: #FF5722;" onclick="status({$list.id})">
+                <span>
+                    {if $list['status'] == 1 } 空闲
+                    {elseif $list['status'] == 2 /}待打扫
+                    {elseif $list['status'] == 3 /}维修中
+                    {elseif $list['status'] == 4 /}预订中
+                    {elseif $list['status'] == 0 /}有人
+                    {/if}
+                </span>
+            </div>
+
+            {if ($list['status'] == 0) OR ($list['status'] == 4) }
+                <div class="layui-col-md4 title_menu" style="background-color: #FFB800;" onclick="exit({$list.id})">
+                    <span>退房</span>
+                </div>
+            {/if}
+            {if $list['status'] == 1 }
+                <div class="layui-col-md4 title_menu" style="background-color: #FFB800;" onclick="subscribe({$list.id})">
+                    <span>预订</span>
+                </div>
+            {/if}
+
+<!--            <div class="layui-col-md4 title_menu" style="background-color: #FF5722;" onclick="exit({$list.id})">
+                <span>测试</span>
+            </div>-->
+
+            <hr> <blockquote class="layui-elem-quote layui-quote-nm">{$list.num}号房间</blockquote>
+
+            <fieldset class="layui-elem-field layui-field-title">
+                <legend>房间信息</legend>
+                <div class="layui-field-box">
+                    <table class="layui-table" lay-even lay-skin="nob">
+                        <colgroup>
+                            <col width="150">
+                            <col width="200">
+                        </colgroup>
+
+                        <tbody>
+
+                        {if ( $list['status'] == 0) OR ( $list['status'] == 4) }
+                            <tr>
+                                <td>姓名</td>
+                                <td>{$list.user}</td>
+                            </tr>
+                            <tr>
+                                <td>身份证信息</td>
+                                <td>{$list.identity}</td>
+                            </tr>
+                            <tr>
+                                <td>入住时间</td>
+                                <td>{:date('Y-m-d H:i',$list['move_time'])}</td>
+                            </tr>
+                        <tr>
+                            <td>到期时间</td>
+                            <td>{:date('Y-m-d H:i',$list['expire_time'])}</td>
+                        </tr>
+                        {/if}
+
+                        <tr>
+                            <td>价格</td>
+                            <td>￥{$list.price}</td>
+                        </tr>
+                        <tr>
+                            <td>类型</td>
+                            <td>{$list.type}</td>
+                        </tr>
+                        <tr>
+                            <td>楼层</td>
+                            <td>{$list.storey}F</td>
+                        </tr>
+                        <tr>
+                            <td>状态</td>
+                            <td>
+                                {if $list['status'] == 1 } 空闲
+                                {elseif $list['status'] == 2 /}待打扫
+                                {elseif $list['status'] == 3 /}维修中
+                                {elseif $list['status'] == 4 /}预订中
+                                {elseif $list['status'] == 0 /}有人
+                                {/if}
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+</div>
+</body>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+<script>
+    /*入住房间*/
+    function check_in(id){
+        $.ajax({
+            type:"get",
+            url: "{:url('admin/console/register')}",
+            data: {
+                id:id
+            },
+            //回调函数
+            success: function(data){
+                var index = layer.open({
+                    type: 1,
+                    title: "入住登记",
+                    skin: 'layui-layer-black', //样式类名
+                    shadeClose: true,
+                    shade: 0.4,
+                    anim: 2,
+                    area: ['550px', '550px'], //宽高
+                    content: data
+                });
+            }});
+    }
+    /*更改房间状态*/
+    function status(id){
+        $.ajax({
+            type:"get",
+            url: "{:url('admin/console/state')}",
+            data: {
+                id:id
+            },
+            //回调函数
+            success: function(data){
+                var index = layer.open({
+                    type: 1,
+                    title: "修改状态",
+                    skin: 'layui-layer-black', //样式类名
+                    shadeClose: true,
+                    shade: 0.4,
+                    anim: 2,
+                    area: ['500px', '320px'], //宽高
+                    content: data
+                });
+            }});
+    }
+    /*退房间*/
+    function exit(id){
+        $.ajax({
+            type:"post",
+            url: "{:url('admin/console/check_out')}",
+            data: {
+                id:id,
+            },
+            //回调函数
+            success: function(data){
+//				console.log(data);
+                if(data.code == 100){
+                    toastr.success(data.msg);
+                    setTimeout(function () {
+                        window.location.href="{:url('admin/console/index')}";
+                    },1000);
+                }else {
+                    toastr.error(data.msg);
+                }
+            }});
+    }
+    /*预定房间*/
+    function subscribe(id){
+        $.ajax({
+            type:"get",
+            url: "{:url('admin/console/subscribe')}",
+            data: {
+                id:id
+            },
+            //回调函数
+            success: function(data){
+                var index = layer.open({
+                    type: 1,
+                    title: "预定房间",
+                    skin: 'layui-layer-black', //样式类名
+                    shadeClose: true,
+                    shade: 0.4,
+                    anim: 2,
+                    area: ['550px', '550px'], //宽高
+                    content: data
+                });
+            }});
+    }
+    /*待打扫房间*/
+    function Clean(){
+        alert('打扫中');
+    }
+    /*待维修房间*/
+    function Repair(){
+        alert('维修中');
+    }
+    /*预订房间房间*/
+    function Book(){
+        alert('已经预订');
+    }
+</script>
+</html>

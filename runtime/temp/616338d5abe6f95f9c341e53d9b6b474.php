@@ -1,0 +1,114 @@
+<?php /*a:1:{s:71:"D:\phpstudy_pro\WWW\Hotel\application\admin\view\jointime\addition.html";i:1576999776;}*/ ?>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/layui/css/layui.css">
+    <script src="/static/layui/layui.js"></script>
+    <link rel="stylesheet" href="/static/toastr/toastr.min.css">
+    <!--<script src="https://cdn.bootcss.com/jquery/2.1.2/jquery.min.js"></script>-->
+    <script src="/static/resource/js/jquery-1.10.2.min.js"></script>
+    <script src="/static/toastr/toastr.min.js"></script>
+</head>
+<style>
+    .layui-btn {
+        display: inline-block;
+        height: 38px;
+        line-height: 38px;
+        background-color: #323232;
+        color: rgb(255, 255, 255);
+        white-space: nowrap;
+        text-align: center;
+        font-size: 14px;
+        cursor: pointer;
+        padding: 0px 18px;
+        border-width: initial;
+        border-style: none;
+        border-color: initial;
+        border-image: initial;
+        border-radius: 2px;
+    }
+</style>
+<body>
+<blockquote class="layui-elem-quote">
+    <i class="layui-icon layui-icon-home" style="font-size: 26px; color: #333;"></i>
+    --新增时长--
+</blockquote>
+<hr class="layui-bg-black">
+
+<div class="layui-container">
+    <div class="layui-row">
+        <div class="layui-col-md12" style="border: 20px solid #FFFFFF;">
+            <table class="layui-table" lay-skin="nob">
+                <colgroup>
+                    <col width="20%">
+                </colgroup>
+                <thead>
+                <tr>
+                    <th><a href="<?php echo url('admin/Jointime/index'); ?>" class="layui-btn">返回上一步</a></th>
+                </tr>
+                </thead>
+                <tbody>
+                <tr>
+                    <td>
+                        <span>名称：</span>
+                        <input type="text" name="num" id="name" placeholder="请输入名称" autocomplete="off" class="layui-input">
+                    </td>
+                </tr>
+                <tr>
+                    <td>
+                        <span>时长：1天以下输入0.0x小时数,1天以上直接输入整数1-366</span>
+                        <input type="text" name="num" id="num" placeholder="例如：2小时=0.02、12小时=0.12、1天=1、2天=2、7天=7。。。。" autocomplete="off" class="layui-input">
+                    </td>
+                </tr>
+
+                <tr>
+                    <td>
+                        <div class="layui-form-item">
+                            <div class="layui-input-block">
+                                <button class="layui-btn"  onclick="add()">立即提交</button>
+                                <button type="reset" class="layui-btn layui-btn-primary">重置</button>
+                            </div>
+                        </div>
+                    </td>
+                </tr>
+
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
+</body>
+<script>
+    function add(){
+        if($('#name').val() == ''){
+            toastr.error("名称不能为空");
+            return false;
+        }else if($('#num').val() == ''){
+            toastr.error("时长不能为空");
+            return false;
+        }
+        $.ajax({
+            type:"post",
+            url: "<?php echo url('admin/jointime/addition'); ?>",
+            data: {
+                name:$('#name').val(),
+                num:$('#num').val(),
+            },
+            //回调函数
+            success: function(data){
+//				console.log(data);
+                if(data.code == 100){
+                    toastr.success(data.msg);
+                    setTimeout(function () {
+
+                        window.location.href="<?php echo url('admin/jointime/index'); ?>";
+                    },1000);
+                }else {
+                    toastr.error(data.msg);
+                }
+            }});
+    }
+</script>
+</html>

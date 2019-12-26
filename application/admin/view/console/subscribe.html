@@ -1,0 +1,161 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="/static/layui/css/layui.css">
+</head>
+<body>
+
+<div style="text-align:center; " id="app">
+    <div class="layui-row">
+        <div class="layui-col-md12">
+
+            <fieldset class="layui-elem-field layui-field-title">
+                <legend>{$house.num}号房间预订管理</legend>
+                <div class="layui-field-box">
+
+                    <form class="layui-form layui-form-pane" action="">
+                        <div class="layui-form-item" pane>
+                            <label class="layui-form-label">姓名</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="title" id="user" placeholder="请输入姓名" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+
+                        <div class="layui-form-item" pane style="margin-top: -20px;">
+                            <label class="layui-form-label">身份证</label>
+                            <div class="layui-input-block">
+                                <input type="text" name="title" id="identity" placeholder="请输入身份证号码" autocomplete="off" class="layui-input">
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </fieldset>
+
+            <fieldset class="layui-elem-field layui-field-title" style="margin-top: -30px;">
+                <legend>入住详情</legend>
+                <div class="layui-field-box">
+                    <table class="layui-table" lay-even lay-skin="nob">
+                        <tbody>
+                        <tr>
+                            <td>单价:</td>
+                            <td style="text-align: left">
+                                <span>{$house.price}</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>类型:</td>
+                            <td style="text-align: left">
+                                <span>{$house.type}</span>
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>楼层:</td>
+                            <td style="text-align: left">{$house.storey}F</td>
+                        </tr>
+                        <tr>
+                            <td>日期:</td>
+                            <td style="text-align: left">
+                                <input type="datetime-local" name="start" id="start">
+                                <input type="datetime-local"  name="end" id="end">
+                            </td>
+                        </tr>
+                        <tr>
+                            <td>入住类型</td>
+                            <td style="text-align: left">
+                                <select name="city" id="move_type" v-model='choice'>
+                                    <option value="">请选择</option>
+                                    {volist name='list' id='vo'}
+                                    <option value="{$vo.num}">{$vo.name}</option>
+                                    {/volist}
+                                </select>
+                            </td>
+                        </tr>
+                        </tbody>
+                    </table>
+                </div>
+            </fieldset>
+
+            <fieldset class="layui-elem-field layui-field-title"  style="margin-top: -30px;">
+                <legend>房租结算</legend>
+                <div class="layui-field-box">
+                    <table class="layui-table" lay-even lay-skin="nob">
+                        <colgroup>
+                            <col width="80">
+                            <col width="100">
+                            <col>
+                        </colgroup>
+                        <thead>
+                        <tr>
+                            <th>房费</th>
+                            <th>
+                                <p v-if='choice < 1'>￥{$house.price}</p>
+                                <p v-else>￥{{choice*{$house.price}}}</p>
+                            </th>
+                            <th>
+                                <button type="button" class="layui-btn" style="margin-left: 20px;" onclick="add11()">
+                                    <i class="layui-icon">&#xe655;</i> 打印票据
+                                </button>
+                                <button type="button" class="layui-btn" style="margin-left: 20px;" @click='add({$house.id})'>
+                                    <i class="layui-icon">&#xe672;</i> 预订
+                                </button>
+                            </th>
+                        </tr>
+                        </thead>
+                    </table>
+                </div>
+            </fieldset>
+        </div>
+    </div>
+</div>
+
+
+
+</body>
+<script src="https://cdn.bootcss.com/jquery/1.12.0/jquery.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+
+<script>
+
+    new 	Vue({
+        el:'#app',
+        data:{
+            msg:'小明',
+            choice:''
+        },
+        methods:{
+            add:function(id){
+                $.ajax({
+                    type:"post",
+                    url: "{:url('admin/console/subscribe')}",
+                    data: {
+                        id:id,
+                        user:$('#user').val(),
+                        identity:$('#identity').val(),
+                        move_type:$('#move_type').val(),
+                        status:4,
+                        move_time:$('#start').val(),
+                        expire_time:$('#end').val(),
+                    },
+                    //回调函数
+                    success: function(data){
+//				console.log(data);
+                        if(data.code == 100){
+                            toastr.success(data.msg);
+                            setTimeout(function () {
+                                window.location.href="{:url('admin/console/index')}";
+                            },1000);
+                        }else {
+                            toastr.error(data.msg);
+                        }
+                    }});
+            },
+            action2:function(){
+                this. msg='明哥我走了哈哈'
+            }
+        }
+    });
+
+</script>
+</html>

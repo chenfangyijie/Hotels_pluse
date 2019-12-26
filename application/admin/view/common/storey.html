@@ -1,0 +1,86 @@
+<button type="button" class="layui-btn layui-btn-normal" style="margin: 10px;">
+    <i class="layui-icon">&#xe68e;</i>空闲
+</button>
+<button type="button" class="layui-btn layui-btn-danger">
+    <i class="layui-icon">&#xe66f;</i>有人
+</button>
+<button type="button" class="layui-btn layui-btn-warm">
+    <i class="layui-icon">&#xe636;</i>待打扫
+</button>
+<button type="button" class="layui-btn layui-btn-repair">
+    <i class="layui-icon">&#xe631;</i>维修中
+</button>
+
+<fieldset class="layui-elem-field layui-field-title">
+    {volist name='storey' id='sto'}
+    <legend>{$sto.num}F - 房间分布图</legend>
+    <div class="layui-field-box">
+        {volist name='list' id='vo'}
+            {if $vo.storey == $sto.num}
+                {if  $vo['status'] == 1}
+                    <button type="button" class="layui-btn layui-btn-normal" style="margin: 10px;">
+                        <i class="layui-icon">&#xe68e;</i>
+                        <a href="{:url('admin/console/show',['id'=>$vo['id']])}">
+                            {$vo.num}号空闲
+                        </a>
+                    </button>
+                {elseif $vo['status'] == 2 /}
+                    <button type="button" class="layui-btn layui-btn-warm" style="margin: 10px;">
+                        <i class="layui-icon">&#xe636;</i>
+                        <a href="{:url('admin/console/show',['id'=>$vo['id']])}">
+                            {$vo.num}号待打扫
+                        </a>
+                    </button>
+                {elseif $vo['status'] == 3 /}
+                <button type="button" class="layui-btn layui-btn-repair" style="margin: 10px;">
+                    <i class="layui-icon">&#xe631;</i>
+                    <a href="{:url('admin/console/show',['id'=>$vo['id']])}">
+                        {$vo.num}号维修中
+                    </a>
+                </button>
+                {elseif $vo['status'] == 4 /}
+                <button type="button" class="layui-btn layui-btn-repair" style="margin: 10px;">
+                    <i class="layui-icon">&#xe631;</i>
+                    <a href="{:url('admin/console/show',['id'=>$vo['id']])}">
+                        {$vo.num}号预订中
+                    </a>
+                </button>
+                {elseif $vo['status'] == 0 /}
+                    <button type="button" class="layui-btn layui-btn-danger" style="margin: 10px;">
+                        <i class="layui-icon">&#xe66f;</i>
+                        <a href="{:url('admin/console/show',['id'=>$vo['id']])}">
+                            {$vo.num}号有人
+                        </a>
+                    </button>
+                {/if}
+            {/if}
+        {/volist}
+    </div>
+    {/volist}
+</fieldset>
+<!--
+
+<fieldset class="layui-elem-field layui-field-title">
+    {volist name='list' id='vo'}
+    <legend>1F - 房间分布图</legend>
+    <div class="layui-field-box">
+
+        {if  $vo['status'] == 1 }
+        <div class="lists layui-col-md4" style="background-color: #0997F7;">
+            <span>{$vo.num}号</span>
+            <p>空闲</p>
+        </div>
+        {elseif $vo['status'] == 2 /}
+        <div class="lists layui-col-md4" style="background-color: darkgreen;">
+            <span>{$vo.num}号</span>
+            <p>待打扫</p>
+        </div>
+        {else /}
+        <div class="lists layui-col-md4" style="background-color: goldenrod;">
+            <span>{$vo.num}号</span>
+            <p>有人</p>
+        </div>
+        {/if}
+    </div>
+    {/volist}
+</fieldset>-->
